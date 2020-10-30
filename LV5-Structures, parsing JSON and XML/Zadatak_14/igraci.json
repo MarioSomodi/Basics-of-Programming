@@ -1,0 +1,102 @@
+[
+  {
+    "rb": "1",
+    "oib": "123475678365",
+    "ime": "Ardian",
+    "prezime": "Kozniku",
+    "adresa": "Adresa 1",
+    "grad": "Virovitica",
+    "klub": "	Hajduk Split",
+    "godina": "2001"
+  },
+  {
+    "rb": "2",
+    "oib": "156823467",
+    "ime": "Goran",
+    "prezime": "Vlaovic",
+    "adresa": "Adresa 2",
+    "grad": "Nova Gradiska",
+    "klub": "HASK Gradanski Zagreb",
+    "godina": "2002"
+  },
+  {
+    "rb": "3",
+    "oib": "54634577",
+    "ime": "Robert",
+    "prezime": "Spehar",
+    "adresa": "Adresa 3",
+    "grad": "Virovitica",
+    "klub": "Osijek",
+    "godina": "2000"
+  },
+  {
+    "rb": "4",
+    "oib": "924367524361",
+    "ime": "Igor",
+    "prezime": "Cvitanovic",
+    "adresa": "Adresa 4",
+    "grad": "Osijek",
+    "klub": "Croatia Zagreb",
+    "godina": "1970"
+  },
+  {
+    "rb": "5",
+    "oib": "173468347",
+    "ime": "Mate",
+    "prezime": "Baturina",
+    "adresa": "Adresa 5",
+    "grad": "Split",
+    "klub": "Zagreb",
+    "godina": "1973"
+  },
+  {
+    "rb": "6",
+    "oib": "143564783",
+    "ime": "Josko",
+    "prezime": "Popovic",
+    "adresa": "Adresa 6",
+    "grad": "Virovitica",
+    "klub": "Sibenik",
+    "godina": "2005"
+  },
+  {
+    "rb": "7",
+    "oib": "348563847651",
+    "ime": "Tomo",
+    "prezime": "Sokota",
+    "adresa": "Adresa 7",
+    "grad": "Zagreb",
+    "klub": "Dinamo, Croatia Zagreb",
+    "godina": "1977"
+  },
+  {
+    "rb": "8",
+    "oib": "1982347923",
+    "ime": "Ivica",
+    "prezime": "Olic",
+    "adresa": "Adresa 8",
+    "grad": "Nova Gradiska",
+    "klub": "Zagreb",
+    "godina": "1979"
+  },
+  {
+    "rb": "9",
+    "oib": "4985694435",
+    "ime": "Tomislav",
+    "prezime": "Erceg",
+    "adresa": "Adresa 9",
+    "grad": "Split",
+    "klub": "Rijeka",
+    "godina": "2003"
+  },
+    {
+    "rb": "10",
+    "oib": "3094759734",
+    "ime": "Ivan",
+    "prezime": "Bosnjak",
+    "adresa": "Adresa 10",
+    "grad": "Virovitica",
+    "klub": "Dinamo Zagreb",
+    "godina": "1979"
+  },
+]

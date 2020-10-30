@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <restoran id ="1" naziv ="Bilogorski dvori" opis ="Obiteljski restoran Bilogorski dvori" adresa ="Bilogorska Ulica 20a" grad ="Virovitica" odsati ="8" dosati ="24"></restoran>
+  <restoran id ="2" naziv ="Mfm" opis ="Restoran" adresa ="Ul. Ferde Rusana 2" grad ="Virovitica" odsati ="6" dosati ="22"></restoran>
+  <restoran id ="3" naziv ="Restoran Lord" opis ="Ugodan Restoran" adresa ="Vukovarska cesta 13" grad ="Virovitica" odsati ="0" dosati ="24"></restoran>
+  <restoran id ="4" naziv ="Restoran Škola" opis ="Menza za studente" adresa ="Ul. Matije Gupca 78" grad ="Virovitica" odsati ="17" dosati ="19"></restoran>
+  <restoran id ="5" naziv ="Restoran Flora" opis ="Restoran prikladan za djecu" adresa ="Ul. Matije Gupca 5" grad ="Virovitica" odsati ="9" dosati ="22"></restoran>
+  <restoran id ="6" naziv ="Pizzeria 4m" opis ="Pizzerija" adresa ="Ul. Josipa Jurja Strossmayera 36" grad ="Virovitica" odsati ="8" dosati ="22"></restoran>
+  <restoran id ="7" naziv ="Vinodol" opis ="Restoran sa sjajnim koktelima" adresa ="Ul. Nikole Tesle 10" grad ="Zagreb" odsati ="11" dosati ="24"></restoran>
+  <restoran id ="8" naziv ="Dubravkin put" opis ="Neformalni restoran" adresa ="Dubravkin put 2" grad ="Zagreb" odsati ="11" dosati ="1"></restoran>
+  <restoran id ="9" naziv ="Restoran Zinfandels" opis ="Restoran sa kasnonocnom hranom" adresa ="Ul. Antuna Mihanovića 1" grad ="Zagreb" odsati ="6" dosati ="23"></restoran>
+  <restoran id ="10" naziv ="Takenoko Zagreb" opis ="Restoran prikladan za grupe" adresa ="Masarykova ul. 22" grad ="Zagreb" odsati ="12" dosati ="1"></restoran>
+</data>
