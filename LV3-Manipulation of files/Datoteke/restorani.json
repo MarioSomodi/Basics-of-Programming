@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Restoran Škola",
+   	"lat": 45.841605,
+  	"lng": 17.388390
+	},
+	{
+    "id": "2",
+    "name": "Restoran MFM",
+   	"lat": 45.835259,
+  	"lng": 17.387816
+	},
+	{
+    "id": "3",
+    "name": "Restoran Dvorac",
+   	"lat": 45.833592,
+  	"lng": 17.385681
+	},
+	{
+    "id": "4",
+    "name": "Pizzeria 4M",
+   	"lat": 45.834881,
+  	"lng": 17.377956
+	},
+	{
+    "id": "5",
+    "name": "Restoran 4M",
+   	"lat": 45.834881,
+  	"lng": 17.377956
+	},
+	{
+    "id": "6",
+    "name": "Fast food Denis",
+   	"lat": 45.830644,
+  	"lng": 17.386337
+	},
+	{
+    "id": "7",
+    "name": "Fast food Denis",
+   	"lat": 45.830644,
+  	"lng": 17.386337
+	},
+	{
+    "id": "8",
+    "name": "Restoran KTC",
+   	"lat": 45.822179,
+  	"lng": 17.388764
+	},
+	{
+    "id": "9",
+    "name": "Hotel Šulentić",
+   	"lat": 45.804607,
+  	"lng": 17.387367
+	},
+	{
+    "id": "10",
+    "name": "Hotel Mozart",
+   	"lat": 45.831237,
+  	"lng": 17.286244
+	},
+	{
+    "id": "11",
+    "name": "Restoran Graničar",
+   	"lat": 45.941097,
+  	"lng": 17.460008
+	},
+	{
+    "id": "12",
+    "name": "Restoran Bilogorski dvori",
+   	"lat": 45.820049,
+  	"lng": 17.381427
+	}
+]

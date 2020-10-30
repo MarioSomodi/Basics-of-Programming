@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <rest id="1" name="Restoran Škola" lat="45.841605" lng="17.388390" type="0"></rest>
+  <rest id="2" name="Restoran MFM" lat="45.835259" lng="17.387816" type="0"></rest>
+  <rest id="3" name="Restoran Dvorac" lat="45.833592" lng="17.385681" type="0"></rest>
+</data>
