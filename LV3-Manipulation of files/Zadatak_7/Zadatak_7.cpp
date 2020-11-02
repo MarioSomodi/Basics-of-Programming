@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-	string path = "C:\\Users\\fpsdr\\Desktop\\Mario_Somodi\\LV3\\OsnoveProgramiranjaLV3\\Datoteke\\Brojevi.txt";
+	string path = "Datoteke\\Brojevi.txt";
 	double p, unosb1, unosb2, unosb3, unosb4, unosb5;
 	fstream broj(path, ios::out | ios::trunc);
 	cout << "Unesite 5 brojeva: \n";
@@ -28,4 +28,3 @@ int main()
 	system("pause");
 	return 0;
 }
-
