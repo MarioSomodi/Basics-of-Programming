@@ -7,7 +7,7 @@ namespace Zadatak_6
     {
         static void Main(string[] args)
         {
-            string path = @"C:\Users\fpsdr\Desktop\Mario_Somodi\LV3\OsnoveProgramiranjaLV3\Datoteke\TelefonskiImenik.txt";
+            string path = @"Datoteke\TelefonskiImenik.txt";
             string ime, prezime, telbroj, sadrzaj;
             StreamWriter unosUtelefonskiimenik = new StreamWriter(path, true);
             Console.Write("Unesite ime: ");
