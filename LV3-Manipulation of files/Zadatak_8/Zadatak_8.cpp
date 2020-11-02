@@ -8,8 +8,8 @@ using namespace std;
 int main()
 {
 	string pathu, pathi;
-	pathu = "C:\\Users\\fpsdr\\Desktop\\Mario_Somodi\\LV3\\OsnoveProgramiranjaLV3\\Datoteke\\hello.txt";
-	pathi = "C:\\Users\\fpsdr\\Desktop\\Mario_Somodi\\LV3\\OsnoveProgramiranjaLV3\\Datoteke\\hello_copy.txt";
+	pathu = "Datoteke\\hello.txt";
+	pathi = "Datoteke\\hello_copy.txt";
 	fstream ulaz(pathu, ios::in);
 	fstream izlaz(pathi, ios::out);
 	char c;
@@ -22,4 +22,3 @@ int main()
 	izlaz.close();
     return 0;
 }
-
