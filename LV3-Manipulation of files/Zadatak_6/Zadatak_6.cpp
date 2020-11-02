@@ -10,8 +10,8 @@ int main()
 {
 	string sLine, temp;
 	int found;
-	string path1 = "C:\\Users\\fpsdr\\Desktop\\Mario_Somodi\\LV3\\OsnoveProgramiranjaLV3\\Datoteke\\ParniBrojevi.txt";
-	string path2 = "C:\\Users\\fpsdr\\Desktop\\Mario_Somodi\\LV3\\OsnoveProgramiranjaLV3\\Datoteke\\NeparniBrojevi.txt";
+	string path1 = "Datoteke\\ParniBrojevi.txt";
+	string path2 = "Datoteke\\NeparniBrojevi.txt";
 	fstream parniBrojevi(path1, ios::in);
 	fstream neparnibrojevi(path2, ios::out | ios::trunc);
 	neparnibrojevi.close();
