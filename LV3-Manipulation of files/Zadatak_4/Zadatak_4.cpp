@@ -20,7 +20,7 @@ int main()
 	{
 		case 1: 
 		{
-			sPath = "C:\\Users\\fpsdr\\Desktop\\Mario_Somodi\\LV3\\OsnoveProgramiranjaLV3\\Datoteke\\restorani.json";
+			sPath = "Datoteke\\restorani.json";
 			fstream oDatoteka(sPath, ios::in);
 			if (oDatoteka) 
 			{
@@ -38,7 +38,7 @@ int main()
 		}
 		case 2:
 		{
-			sPath = "C:\\Users\\fpsdr\\Desktop\\Mario_Somodi\\LV3\\OsnoveProgramiranjaLV3\\Datoteke\\knjige.xml";
+			sPath = "Datoteke\\knjige.xml";
 			fstream oDatoteka(sPath, ios::in);
 			if (oDatoteka)
 			{
@@ -56,7 +56,7 @@ int main()
 		}
 		case 3:
 		{
-			sPath = "C:\\Users\\fpsdr\\Desktop\\Mario_Somodi\\LV3\\OsnoveProgramiranjaLV3\\Datoteke\\hello.txt";
+			sPath = "Datoteke\\hello.txt";
 			fstream oDatoteka(sPath, ios::in);
 			if (oDatoteka)
 			{
