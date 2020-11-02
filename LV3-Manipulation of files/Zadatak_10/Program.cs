@@ -7,7 +7,7 @@ namespace Zadatak_10
     {
         static void Main(string[] args)
         {
-            string path = @"C:\Users\fpsdr\Desktop\Mario_Somodi\LV3\OsnoveProgramiranjaLV3\Datoteke\Datum&Vrijeme.txt";
+            string path = @"Datoteke\Datum&Vrijeme.txt";
             while (true)
             {
                 DateTime now = DateTime.Now;
