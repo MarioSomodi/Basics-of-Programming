@@ -29,7 +29,7 @@ string GetDateTime()
 
 int main()
 {
-	string path = "C:\\Users\\fpsdr\\Desktop\\Mario_Somodi\\LV3\\OsnoveProgramiranjaLV3\\Datoteke\\Logovi.log";
+	string path = "Datoteke\\Logovi.log";
 	fstream Logovi(path, ios::app | ios::out);
 	Logovi << "Program pokrenut: " << GetDateTime() << endl;
 	system("pause");
@@ -37,4 +37,3 @@ int main()
 	Logovi.close();
     return 0;
 }
-
