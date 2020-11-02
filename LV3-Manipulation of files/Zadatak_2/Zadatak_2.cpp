@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
 	fstream Zadatak2;
-	string path = "C:\\Users\\fpsdr\\Desktop\\Mario_Somodi\\LV3\\OsnoveProgramiranjaLV3\\Datoteke\\Zadatak2.txt";
+	string path = "Datoteke\\Zadatak2.txt";
 	Zadatak2.open(path, ios::in);
 	if (Zadatak2) 
 	{
@@ -26,4 +26,3 @@ int main()
 	system("pause");
     return 0;
 }
-
