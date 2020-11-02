@@ -19,7 +19,8 @@ namespace Zadatak_14
             public string adresa;
             public string grad;
             public string klub;
-            public int godina;            public Igraci(int r, string o, string i, string p, string a, string g, string k, int god)
+            public int godina;
+            public Igraci(int r, string o, string i, string p, string a, string g, string k, int god)
             {
                 rb = r;
                 oib = o;
@@ -46,7 +47,7 @@ namespace Zadatak_14
                     Console.WriteLine("Grad: {0}", lIgraci[i].grad);
                     Console.WriteLine("Klub: {0}", lIgraci[i].klub);
                     Console.WriteLine("Godina: {0}", lIgraci[i].godina);
-                    Console.WriteLine("\n------------------------------\n");
+                    Console.WriteLine("\n-----------------------------\n");
                 }
             }
         }
