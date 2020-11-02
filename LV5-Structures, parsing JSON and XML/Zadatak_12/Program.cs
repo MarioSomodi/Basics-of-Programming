@@ -44,8 +44,10 @@ namespace Zadatak_12
             List<Restoran> lRestorani = new List<Restoran>();
             foreach (XmlNode oNode in oNodes)
             {
-                lRestorani.Add(new Restoran(Int32.Parse(oNode.Attributes["id"].Value), oNode.Attributes["naziv"].Value, oNode.Attributes["opis"].Value, oNode.Attributes["adresa"].Value, oNode.Attributes["grad"].Value, Int32.Parse(oNode.Attributes["odsati"].Value), Int32.Parse(oNode.Attributes["dosati"].Value)));
-            }              foreach (Restoran element in lRestorani)
+            	lRestorani.Add(new Restoran(Int32.Parse(oNode.Attributes["id"].Value), oNode.Attributes["naziv"].Value, oNode.Attributes["opis"].Value, oNode.Attributes["adresa"].Value, oNode.Attributes["grad"].Value, Int32.Parse(oNode.Attributes["odsati"].Value), Int32.Parse(oNode.Attributes["dosati"].Value)));
+            }
+  
+            foreach (Restoran element in lRestorani)
             {
                 if (element.dosati > 23 || element.dosati < 6)
                 {
@@ -56,7 +58,11 @@ namespace Zadatak_12
                     Console.WriteLine("Grad: " + element.grad);
                     Console.WriteLine("Radno vrijeme: {0} - {1}", element.odsati, element.dosati);
                 }
-            }            Console.WriteLine("\nPress any key to continue...");            Console.ReadKey();
+            }
+
+            Console.WriteLine("\nPress any key to continue...");
+            Console.ReadKey();
+
         }
     }
 }
