@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
 	int aPolje1[15];
-	fstream zadatak1("C:\\Users\\fpsdr\\Desktop\\Mario_Somodi\\LV4\\OsnoveProgramiranjaLV4\\Datoteke\\Zadatak_1.txt", ios::out | ios::trunc);
+	fstream zadatak1("Datoteke\\Zadatak_1.txt", ios::out | ios::trunc);
 	for (int i = 0; i < 15; i++) 
 	{
 		aPolje1[i] = i * i;
@@ -17,4 +17,3 @@ int main()
 	system("pause");
 	return 0;
 }
-
